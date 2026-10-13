@@ -1,0 +1,5 @@
+out/
+.venv/
+__pycache__/
+*.scene.json
+.DS_Store
