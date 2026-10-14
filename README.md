@@ -52,3 +52,7 @@ and spatial tangents; expressions; comp and layer markers.
 | effect param match names | some shifted (Displacement Map), some renamed (text selectors) | finds parameters by display name first |
 | `setTrackMatte` keeps the matte's visibility | hides the matte layer | restores it |
 | a Key object reads as its value (`linear(t, 0, 1, key(1), key(2))`) | "expression result must be a number" | adds `.value` where a Key is only used as a value |
+
+## License
+
+MIT

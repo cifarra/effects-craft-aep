@@ -3,6 +3,7 @@ name = "aep2ec"
 version = "0.1.0"
 description = "After Effects .aep in, EffectCraft .ecproj out"
 requires-python = ">=3.13"
+license = "MIT"
 dependencies = [
     "py-aep>=0.18.1",
 ]
